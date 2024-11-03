@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" title="Python" alt="Python" style="padding-right:10px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40" title="Pytorch" alt="Pytorch" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL" alt="MySQL" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB" alt="MongoDB" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40" title="Neo4j" alt="Neo4j" style="padding-right:10px;"/>&nbsp;
