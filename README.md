@@ -4,7 +4,7 @@
 ✉️ [202201175@alu.comillas.edu](mailto:202201175@alu.comillas.edu)  
 
 <!--
-**JorgeVanco/JorgeVanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**merygon/merygon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" alt="Linux" style="padding-right:10px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash" alt="Bash" style="padding-right:10px;"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" alt="C#" style="padding-right:10px;"/>&nbsp;
 </div>
 
 ---
