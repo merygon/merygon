@@ -1,7 +1,15 @@
 # María González Gómez
 
-### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`**
-✉️ [202201175@alu.comillas.edu](mailto:202201175@alu.comillas.edu)  
+### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`** 
+---
+
+### 📬 Contacto
+✉️ [202201175@alu.comillas.edu](mailto:202201175@alu.comillas.edu) 
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merygonz3000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maría-gonzález-gómez)
+
+---
+
 
 <!--
 **merygon/merygon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
