@@ -1,6 +1,13 @@
 # María González Gómez
 
-### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`** 
+### **`Estudiante de Ingeniería Matemática e Inteligencia Artificial`** | 💻 **Ex-intern en AWS** 
+
+- 🚀 **Apasionada por la ciencia de datos estratégica** | 📊🏆  
+  Desarrollo soluciones basadas en IA para crear ventajas competitivas y estrategias ganadoras.
+
+- 🤝 **Habilidades clave**: Trabajo en equipo • Negociación • Adaptabilidad  
+  (Perfeccionadas en investigación de IA y proyectos cloud en AWS) 🔄🗣️
+
 ---
 
 ### 📬 Contacto
