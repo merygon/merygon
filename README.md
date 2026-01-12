@@ -1,8 +1,10 @@
 # María González Gómez 
 
-### 🎓 Engineering Mathematics & Artificial Intelligence  
+### 🎓 Mathematical Engineering & Artificial Intelligence  
 ### ☁️ Former AWS Intern  
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merygonz3000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maría-gonzález-gómez)
 ---
 
 🚀 I am a **Mathematical Engineering with Artificial Intelligence** student with a strong interest in **applied machine learning, data-driven systems, and scalable cloud architectures**.
@@ -69,14 +71,7 @@ My goal is to continue developing as an engineer in **large-scale technology env
 </div>
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merygon&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 📬 Let’s connect
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merygon&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merygonz3000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maría-gonzález-gómez)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merygon&count_private=true&show_icons=true&theme=cobalt)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merygon&layout=compact&theme=vision-friendly-dark&hide=Jupyter+Notebook)
