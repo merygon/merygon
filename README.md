@@ -1,25 +1,23 @@
-# María González Gómez 👩🏻‍💻✨
+# María González Gómez 
 
 ### 🎓 Engineering Mathematics & Artificial Intelligence  
 ### ☁️ Former AWS Intern  
 
 ---
 
-🚀 I am a student of **Engineering Mathematics and Artificial Intelligence** with a strong interest in **applied machine learning, data-driven systems, and scalable cloud architectures**.
+🚀 I am a **Mathematical Engineering with Artificial Intelligence** student with a strong interest in **applied machine learning, data-driven systems, and scalable cloud architectures**.
 
 I enjoy working at the intersection of **mathematical rigor, AI models, and real-world impact**, building solutions that are not only technically sound but also **useful, scalable, and well-designed**.
 
-My goal is to continue developing as an engineer in **large-scale technology environments** such as **Google or AWS**, where strong fundamentals, system thinking, and curiosity matter.
+My goal is to continue developing as an engineer in **large-scale technology environments**, where strong fundamentals, system thinking, and curiosity matter.
 
 ---
 
 ### 🧠 Areas of Interest
 - 🤖 Machine Learning & Applied AI  
 - 📊 Data Science & Statistical Modeling  
-- ☁️ Cloud Computing & Distributed Systems (AWS)  
+- ☁️ Cloud Computing & Distributed Systems 
 - 🧩 Data-Driven Decision Making  
-- 🔬 Research-oriented Engineering  
-
 ---
 
 ### 🛠️ Languages & Tools
