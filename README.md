@@ -15,11 +15,11 @@ My goal is to continue developing as an engineer in **large-scale technology env
 
 ---
 
-### 🧠 Areas of Interest
-- 🤖 Machine Learning & Applied AI  
-- 📊 Data Science & Statistical Modeling  
+### 🧠 Areas of Interest 
 - ☁️ Cloud Computing & Distributed Systems 
-- 🧩 Data-Driven Decision Making  
+- 🧩 Data-Driven Decision Making
+- 🤖 Machine Learning & Applied AI  
+- 📊 Data Science & Statistical Modeling 
 ---
 
 ### 🛠️ Languages & Tools
