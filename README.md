@@ -7,9 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maría-gonzález-gómez)
 ---
 
-🚀 I am a **Mathematical Engineering with Artificial Intelligence** student with a strong interest in **applied machine learning, data-driven systems, and scalable cloud architectures**.
+🚀 I am a **Mathematical Engineering with Artificial Intelligence** graduate with a strong interest in **applied machine learning, data-driven systems, and scalable cloud architectures**.
 
-I enjoy working at the intersection of **mathematical rigor, AI models, and real-world impact**, building solutions that are not only technically sound but also **useful, scalable, and well-designed**.
+I enjoy working at the intersection of **AI models and real-world impact**, building solutions that are not only technically sound but also **useful, scalable, and well-designed**.
 
 My goal is to continue developing as an engineer in **large-scale technology environments**, where strong fundamentals, system thinking, and curiosity matter.
 
